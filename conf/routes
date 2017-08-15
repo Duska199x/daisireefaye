@@ -4,6 +4,9 @@
 
 # Home page
 GET     /                                       Application.index
+GET     /first                                       Application.first
+GET     /spotlight                                       Application.spotlight
+GET     /ng-app                                       Application.ngapp
 
 # Ignore favicon requests
 GET     /favicon.ico                            404

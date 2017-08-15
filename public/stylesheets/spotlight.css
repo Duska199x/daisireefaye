@@ -1,0 +1,66 @@
+/* line 2, ../sass/spotlight.scss */
+body {
+  background-color: #fff !important;
+}
+
+/* line 6, ../sass/spotlight.scss */
+.section1 {
+  height: 480px;
+  background-color: #2E324D;
+}
+/* line 9, ../sass/spotlight.scss */
+.section1 .top-head {
+  padding: 181px 0;
+}
+/* line 12, ../sass/spotlight.scss */
+.section1 .sloganTOp {
+  font-size: 100px;
+  padding: 15px;
+  color: #fff;
+}
+
+/* line 21, ../sass/spotlight.scss */
+.role {
+  color: #2EB398;
+}
+
+/* line 25, ../sass/spotlight.scss */
+.person {
+  max-width: 270px;
+  background-color: rgba(255, 255, 255, 0.53);
+  margin-top: 25px;
+}
+/* line 29, ../sass/spotlight.scss */
+.person .person-frame {
+  border-bottom: 8px solid #2EB398;
+  padding-top: 25px;
+}
+
+/* line 34, ../sass/spotlight.scss */
+.person-content {
+  margin-top: 20px;
+  padding-left: 10px;
+}
+
+/* line 38, ../sass/spotlight.scss */
+.person h4 {
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+/* line 42, ../sass/spotlight.scss */
+.person h5 {
+  font-size: 13px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+/* line 49, ../sass/spotlight.scss */
+.iconss li {
+  padding: 4px 0;
+  padding-left: 10px;
+}
+/* line 53, ../sass/spotlight.scss */
+.iconss .socialDetail {
+  color: black;
+}

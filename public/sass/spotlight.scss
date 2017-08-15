@@ -1,0 +1,56 @@
+
+body {
+    background-color: #fff!important;
+
+}
+.section1 {
+    height: 480px;
+    background-color: #2E324D;
+    .top-head {
+        padding: 181px 0;
+    }
+    .sloganTOp {
+        //background-color: #39EFA2;
+        //background-color: rgba(57, 239, 162, 0.57);
+        font-size: 100px;
+        padding: 15px;
+        color: #fff;
+
+    }
+}
+.role {
+    color: #2EB398;
+}
+
+.person {
+    max-width: 270px;
+    background-color: rgba(255, 255, 255, 0.53);
+    margin-top: 25px;
+    .person-frame {
+        border-bottom: 8px solid #2EB398;
+        padding-top: 25px;
+    }
+}
+    .person-content {
+        margin-top: 20px;
+        padding-left: 10px;
+    }
+    .person h4 {
+        text-transform: uppercase;
+        font-weight: 400;
+    }
+    .person h5 {
+        font-size: 13px;
+        font-weight: 400;
+        margin-bottom: 20px;
+    }
+
+    .iconss {
+        li {
+            padding: 4px 0;
+            padding-left: 10px;
+        }
+        .socialDetail {
+            color: black;
+        }
+    }

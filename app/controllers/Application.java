@@ -12,5 +12,14 @@ public class Application extends Controller {
     public static void index() {
         render();
     }
+    public static void first() {
+        render();
+    }
+    public static void spotlight() {
+        render();
+    }
+    public static void ngapp() {
+        render();
+    }
 
 }

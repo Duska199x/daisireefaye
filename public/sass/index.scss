@@ -1,0 +1,16 @@
+.page1100 {
+	width: 1100px;
+	margin: 0 auto;
+}
+body {
+   background: url(/public/images/default_page_background.png)center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+}
+nav {
+    margin-bottom: 0!important;
+    li {
+        padding: 15px 20px;
+    }
+}
